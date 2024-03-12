@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65eff8f2fa39e1770860d48a?variant=dark)](https://roadmap.sh)
 <!--
 **STPPMT/STPPMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
